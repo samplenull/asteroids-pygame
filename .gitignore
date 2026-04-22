@@ -12,3 +12,6 @@ wheels/
 # logs
 game_state.jsonl
 game_events.jsonl
+
+.vscode/
+!.vscode/launch.json
